@@ -1,0 +1,38 @@
+{
+  "smtp": {
+    "host": "smtps.aruba.it",
+    "port": 465,
+    "secure": true,
+    "username": "",
+    "password": "",
+    "mittente": "",
+    "rejectUnauthorized": false
+  },
+  "rateLimiting": {
+    "emailsPerBatch": 30,
+    "pausaTraEmailMs": 3000,
+    "pausaTraBatchMs": 600000,
+    "maxEmailPerOra": 100
+  },
+  "pdf": {
+    "outputDir": "./pdf_generati/",
+    "opzioni": {
+      "appiattisciCampiDato": true,
+      "appiattisciCampiCliente": false
+    }
+  },
+  "email": {
+    "oggetto": "",
+    "html": "",
+    "testo": "",
+    "firma": "",
+    "includiFirma": true
+  },
+  "log": {
+    "path": "./log_invii.csv"
+  },
+  "upload": {
+    "maxAllegatoMB": 10,
+    "maxTotaleMB": 25
+  }
+}

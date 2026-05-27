@@ -1,0 +1,6 @@
+{
+  "name": "mailmerge1777",
+  "description": "Applicazione web per uso interno aziendale che automatizza la stampa unione e l'invio massivo di email personalizzate con documenti allegati compilati.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
