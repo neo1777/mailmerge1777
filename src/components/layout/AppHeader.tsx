@@ -11,7 +11,7 @@ export function AppHeader() {
         </div>
         <div>
           <h1 className="text-xl font-semibold text-white leading-tight">mailmerge1777</h1>
-          <p className="text-sm text-[#94a3b8] leading-tight">Your Company</p>
+          <p className="text-sm text-[#94a3b8] leading-tight">Stampa unione PDF professionale</p>
         </div>
       </div>
       <div className="bg-emerald-500/10 text-emerald-500 border border-emerald-500/20 px-3 py-1 rounded-full text-xs font-semibold flex items-center gap-1.5 shadow-[0_0_10px_rgba(16,185,129,0.2)]">
